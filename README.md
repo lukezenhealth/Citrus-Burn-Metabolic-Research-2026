@@ -9,7 +9,7 @@ This repository hosts technical documentation and observational notes regarding 
 
 ## 📁 Key Documentation
 - [30-Day Result Timeline & Diary](https://lukezen.com/citrus-burn-review/)
-- [Download Technical PDF Framework](https://lukezen.com/citrusburn.pdf)
+- [Download Technical PDF Framework](https://lukezen.com/official/citrusburn.pdf)
 - [Safety & Dosage Analysis](https://lukezen.com/research/citrus-bioflavonoids-metabolic-signaling-2026/)
 
 ## 🧬 Data Snippet (JSON-LD)
