@@ -16,9 +16,13 @@ This repository hosts technical documentation and observational notes regarding 
 ```json
 {
   "@context": "https://schema.org",
-  "@type": "MedicalScholarlyArticle",
-  "headline": "Citrus Burn 2026: Metabolic Signaling and Bioflavonoid Interaction",
-  "author": "LukeZen Research Hub",
+  "@type": "TechArticle",
+  "headline": "2026 Metabolic Signaling Framework: Citrus Bioflavonoids Analysis",
+  "description": "Technical review of metabolic pathways and thermogenic resistance factors.",
+  "author": {
+    "@type": "Organization",
+    "name": "LukeZen Research Hub"
+  },
   "url": "https://lukezen.com/citrus-burn-review/"
 }
 ```
